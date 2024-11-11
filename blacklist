@@ -1,0 +1,14 @@
+/server
+/server-status
+/_all_dbs
+/ecp/Current/exporttool
+/?rest_route=/wp/v2/users/
+/v2/_catalog
+/login.action
+/.env
+/.git/config
+/.DS_Store
+/s/
+/debug/default/view?panel=config
+/telescope/requests
+/.vscode/sftp.json
