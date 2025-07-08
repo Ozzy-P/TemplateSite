@@ -15,3 +15,4 @@ Django: >= 4.2
 
 # Specification
 TBD
+^ Might as well throw a random image prompt into stable diffusion and post the zalgo texted DFD here soon:tm:
