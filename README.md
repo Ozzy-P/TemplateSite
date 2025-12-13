@@ -3,8 +3,8 @@ Template for extending functionality within other internal projects. This is not
 
 # Versions (Contributors)
 For the Linux Server repository, see [here](https://github.com/Ozzy-P/WebSocketFTP)\
-For the Windows Server repository, see [here](https://github.com/Ozzy-P/WebSocketLegacy)\
-For the generic Django MVC web repository, see [here](https://github.com/Ozzy-P/Web), or alternatively, [here](https://github.com/Ozzy-P/BlazorMonos) for the modern remake\
+For the Windows Server repository, see [here](https://github.com/Ozzy-P/WebSocketLegacy),or alternatively, [here](https://github.com/Ozzy-P/BlazorMonos) for the modern remake that isn't held up with sticks and glue\
+For the generic Django MVC web repository, see [here](https://github.com/Ozzy-P/Web)\
 For the generic NodeJS (Django mimicry) web repository with an SQL backend, see [here](https://github.com/Ozzy-P/sql-node)
 
 # Requirements
